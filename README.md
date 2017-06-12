@@ -55,6 +55,10 @@ echo "This operation was carried out on:" ; date
 
 * **ACL anthology BibTeX** Did you know you can usually change the `.pdf` extension to `.bib` and get the BibTeX for papers in the Anthology? Very useful.
 
+## Contributors
+
+Emiel van Miltenburg
+
 ## Acknowledgments
 
 Thanks to Desmond Elliott and Piek Vossen for supervising my PhD work. 
