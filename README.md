@@ -51,6 +51,8 @@ echo "This operation was carried out on:" ; date
 
 * **Thesis templates** Ask around whether your university has a template for PhD theses in LaTeX. Many departments have one. Ours didnt, so I went with the *Memoir* document class in LaTeX. This is basically an enhanced version of the *book* document class. It's really well documented by Brian Wilson (as in: hundreds of pages of documentation), and there's also a stack overflow community around it. 
 
+* **Split your thesis file into separate documents** Don't try to write everything in one file. Both Word and LaTeX allow for you to write every chapter in a different file. In LaTeX, you can use e.g. `\input{chapter1}` in the main document to include the contents from an external file.
+
 * **Bibliography management** I hear many great things about Zotero, but I mainly use BibDesk.
 
 * **ACL anthology BibTeX** Did you know you can usually change the `.pdf` extension to `.bib` and get the BibTeX for papers in the Anthology? Very useful.
